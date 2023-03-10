@@ -7,8 +7,9 @@
 - [Instagram](https://www.instagram.com/jsapuyesp/)
 - [Gmail](mailto:jsapuyesp@gmail.com)
 
-## I’m currently working on
+## I’m currently learning
 
+- [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100+days+of+code&src=sac)
 - [Docker - Guía práctica de uso para desarrolladores](https://www.udemy.com/course/docker-guia-practica/)
 - [JavaScript Moderno: Guía para dominar el lenguaje](https://www.udemy.com/course/javascript-fernando-herrera/)
 - [React: De cero a experto ( Hooks y MERN )](https://www.udemy.com/course/react-cero-experto/)
