@@ -1,20 +1,15 @@
-# Hi there 👋
+# Hi 👋
 
 ### Social
 - [LinkedIn](https://www.linkedin.com/in/jsapuyesp/)
-- [Twitter](https://twitter.com/juansapuyes)
-- [Discord](discordapp.com/users/418558509869826050)
 - [Instagram](https://www.instagram.com/jsapuyesp/)
 - [Gmail](mailto:jsapuyesp@gmail.com)
 
 ## I’m currently learning
 
-- [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?kw=100+days+of+code&src=sac)
 - [Docker - Guía práctica de uso para desarrolladores](https://www.udemy.com/course/docker-guia-practica/)
-- [JavaScript Moderno: Guía para dominar el lenguaje](https://www.udemy.com/course/javascript-fernando-herrera/)
 - [React: De cero a experto ( Hooks y MERN )](https://www.udemy.com/course/react-cero-experto/)
 - [Angular: De cero a experto](https://www.udemy.com/course/angular-fernando-herrera/)
-- [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/)
 
 
 ## Courses and Certificates
