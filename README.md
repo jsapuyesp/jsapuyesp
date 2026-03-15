@@ -2,14 +2,12 @@
 
 ### Social
 - [LinkedIn](https://www.linkedin.com/in/jsapuyesp/)
-- [Instagram](https://www.instagram.com/jsapuyesp/)
 - [Gmail](mailto:jsapuyesp@gmail.com)
 
 ## I’m currently learning
 
-- [Docker - Guía práctica de uso para desarrolladores](https://www.udemy.com/course/docker-guia-practica/)
-- [React: De cero a experto ( Hooks y MERN )](https://www.udemy.com/course/react-cero-experto/)
-- [Angular: De cero a experto](https://www.udemy.com/course/angular-fernando-herrera/)
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer?trk_ref=camodule&utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_x_coursera_ftcof_courseraplus_cx_dr_bau_gg_pmax_bd_s1_es_m_hyb_26-02_desktop&campaignid=23573834360&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6675679943&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=23568581424&gbraid=0AAAAADdKX6a6zze-83h0FQ7KPOqsPaqIx&gclid=EAIaIQobChMI0ZbFtuGikwMVY6RaBR10vQgmEAAYASAAEgJ19vD_BwE)
+- [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_ibm-data-science_ibm_ftcof_professional-certificates_cx_dr_bau_gg_pmax_pr_s1_es_m_hyb_26-02_desktop&campaignid=23619020581&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6681912131&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=23619063778&gbraid=0AAAAADdKX6YKCAD5nLPZGjEN1n7734QGP&gclid=EAIaIQobChMIvafOuOGikwMVnYJaBR1jUQMXEAAYASAAEgK4ifD_BwE)
 
 
 ## Courses and Certificates
